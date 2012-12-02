@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 version = '0.3.1'
 
 setup(
-    name='django-tagging-ext',
+    name='django_tagging_ext',
     version=version,
     description="Adds in new features to supplement django-tagging",
     long_description=open("README.rst").read(),
